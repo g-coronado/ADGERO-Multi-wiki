@@ -15,7 +15,11 @@ header {
 /*To add text color and space to the nav bar*/
 .navText {
     color: white;
-    margin-left: 1em;
+    margin-left: 1.5em;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
 }
 
 /*Adding margin to the secondary navigaton bar*/

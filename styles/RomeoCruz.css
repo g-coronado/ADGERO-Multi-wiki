@@ -35,7 +35,7 @@ main {
 nav {
     display: flex;
     padding: 0%;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 nav a {
